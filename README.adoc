@@ -1,0 +1,9 @@
+= docker-awscli-java
+
+This Docker image--based on the official Java docker image--adds the latest Amazon Web Service command line tools (awscli).
+
+[NOTE]
+.Note
+This image is currently based on the latest Java 8 SDK image.
+
+This is licensed as link:LICENSE.txt[Apache 2.0 open-source].
